@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+work/
+cache/
+data/
+temp_*
+*.vcf
+*.vcf.gz
+*.tsv
+*.fastq.gz
+.streamlit/secrets.toml
+.DS_Store
